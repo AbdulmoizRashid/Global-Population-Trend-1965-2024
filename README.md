@@ -55,11 +55,4 @@ Global population growth has major implications for resource planning, urban dev
 
 ---
 
-## 📂 Repository Contents
-- `Population_Analysis.ipynb` → Jupyter Notebook with full code and visuals  
-- `visuals/` → Line charts, bar charts, and country comparisons  
-- `README.md` → Project documentation
-
----
-
  This project reflects my ability to **clean and reshape complex datasets**, extract trends, and communicate insights through visuals — core skills for any data analyst.
